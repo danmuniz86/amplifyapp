@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code> everything you need </code> and save to reload.
+          This is my first React.js with Amplify
         </p>
         <a
           className="App-link"
